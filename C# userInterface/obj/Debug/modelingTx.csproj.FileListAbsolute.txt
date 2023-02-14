@@ -1,0 +1,22 @@
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\bin\Debug\modelingTx.exe.config
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\bin\Debug\modelingTx.exe
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\bin\Debug\modelingTx.pdb
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.csproj.AssemblyReference.cache
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.Form1.resources
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.Properties.Resources.resources
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.csproj.GenerateResource.cache
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.exe
+C:\Users\Mehmet Dincer\Desktop\Embedded systems\c# projeleri\ConsoleApp2\modelingTx\obj\Debug\modelingTx.pdb
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\bin\Debug\modelingTx.exe.config
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\bin\Debug\modelingTx.exe
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\bin\Debug\modelingTx.pdb
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.csproj.AssemblyReference.cache
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.Form1.resources
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.Properties.Resources.resources
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.csproj.GenerateResource.cache
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.exe
+C:\Users\Mehmet Dincer\Desktop\Kitaplar ve PDFs\3.Sınıf Güz\Modeling Rapor ve Kodlar\C# userInterface\obj\Debug\modelingTx.pdb
